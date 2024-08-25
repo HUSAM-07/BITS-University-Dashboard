@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd 
 import json  # Added this line
 
+
 def main():
     st.set_page_config(page_title="BITS Pilani, Dubai Clubs Dashboard", page_icon=":mortar_board:", layout="centered")
     st.title("University Dashboard")
